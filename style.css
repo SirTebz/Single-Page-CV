@@ -1,0 +1,77 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+.job, .education-entry, .references {
+    margin-bottom: 20px;
+}
+
+.job-title, .degree, .reference-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.company, .school {
+    font-style: italic;
+}
+
+.date, .ref-job {
+    color: #7f8c8d;
+    font-size: 0.9em;
+    /* margin-bottom: 10px; */
+}
+
+ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.skills {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.skills-list .list-heading{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.online-profiles {
+    margin-top: 30px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
