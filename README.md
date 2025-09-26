@@ -19,7 +19,7 @@ A clean and responsive single-page CV (Curriculum Vitae) website built with HTML
 ```
 
 
-├── assets/             # Additional assets (if any)
+├── assets/             # Additional assets
 ├── img/                # Image assets
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styling
